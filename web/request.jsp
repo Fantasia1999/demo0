@@ -14,7 +14,7 @@
 <%--3-7 request对象（上）--%>
 <h1>request内置对象</h1>
 <%--跳转到reg.jsp页面--%>
-<form action="reg.jsp" name="username" method="get">
+<form action="response.jsp" name="username" method="get">
     <table>
         <%--用户名--%>
         <tr>
